@@ -18,3 +18,7 @@ li:last-child {
 	margin-right: .5em;
 }
 
+a:hover {
+	color: #FFF;
+}
+
