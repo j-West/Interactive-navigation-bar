@@ -10,16 +10,12 @@ li, a {
 	text-decoration: none;
 }
 
-li {
-	text-align: center;
-}
-
 a:last-child {
-	margin-right: 1em;
+	margin-right: 2em;
 }
 
 a {
-	margin-left: 3em;
+	margin: 0 10px;
 	padding: 10px 10px;
 	background-color: red;
 	color: gold;
