@@ -11,14 +11,25 @@ li, a {
 }
 
 li {
-	margin-left: 1.5em;
+	text-align: center;
 }
 
-li:last-child {
-	margin-right: .5em;
+a:last-child {
+	margin-right: 1em;
+}
+
+a {
+	margin-left: 3em;
+	padding: 10px 10px;
+	background-color: red;
+	color: gold;
 }
 
 a:hover {
+	background-color: blue;
 	color: #FFF;
 }
 
+a:active {
+	padding: 10px 15px;
+}
