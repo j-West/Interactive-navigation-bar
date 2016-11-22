@@ -1,6 +1,6 @@
 #Banking Form
 
-## This is for the seventh exercise in front-end-milestones/2-the-static-web
+## Seventh exercise in front-end-milestones/the-static-web
 
 ### Instructions for exercise:
 
